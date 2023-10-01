@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development using MERN stack.
 - 💞️ I’m looking to collaborate on MERN
 - 💞️ Talk to me about Infrastructure as a Code. I love Terraform and Azure Bicep
-- 📫 How to reach me? Write me on mayank.srivastava@nubeconsulting.nl
+- 📫 How to reach me? Write me on mayank.srivastav84@gmail.com
 
 
 <!---
